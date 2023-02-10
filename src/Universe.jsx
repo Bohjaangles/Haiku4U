@@ -63,7 +63,7 @@ export default function Experience() {
             </mesh>
             <Text
                 position={[0, 4, -3]}
-                color="#E6AA29"
+                color="#EBD289"
                 maxWidth={10}
             >
                 Learning Three JS.
@@ -72,7 +72,7 @@ export default function Experience() {
             </Text>
             <Text
                 position={[-1.6, 0.5, -3]}
-                color="#F1E7C9"
+                color="#EBD289"
                 maxWidth={10}
             > 
                 -Russel Mueller
