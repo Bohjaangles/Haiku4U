@@ -62,16 +62,28 @@ export default function Experience() {
                 />
             </mesh>
             <Text
-                position={[0, 4, -3]}
+                position={[-0.5, 6.6, -3]}
                 color="#EBD289"
                 maxWidth={10}
             >
                 Learning Three JS.
-                with React as a base.
+            </Text>
+            <Text
+                position={[0.35, 4.7, -3]}
+                color="#EBD289"
+                maxWidth={10}
+            >
+                Using React as a base. 
+            </Text>
+            <Text
+                position={[0.35, 2.3, -3]}
+                color="#EBD289"
+                maxWidth={10}
+            >
                 Calm mind, busy hands. 
             </Text>
             <Text
-                position={[-1.6, 0.5, -3]}
+                position={[-1.6, 0.3, -3]}
                 color="#EBD289"
                 maxWidth={10}
             > 
